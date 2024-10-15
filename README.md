@@ -19,10 +19,10 @@ Welcome to my GitHub profile! I'm passionate about using data to drive meaningfu
 ## 🧰 **Tech Stack**
 
 - **Programming Languages:** Python, SQL
-- **Data Science Libraries:** Pandas, NumPy, Scikit-Learn, Spacy, Seaborn, Matplotlib
+- **Data Science Libraries:** Pandas, NumPy, Scikit-Learn, Spacy, Seaborn, Matplotlib, Statsmodels
 - **Machine Learning:** Linear Regression, Decision Trees, Random Forests, KNN, Logistic Regression, LSTM
 - **NLP:** Sentiment Analysis, Topic Modeling, Aspect-Based Sentiment Analysis, Text Summarization
-- **Tools:** Jupyter Notebook, Visual Studio Code, Git
+- **Tools:** Jupyter Notebook, Visual Studio Code, Git, Tableau
 
 
 
