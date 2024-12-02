@@ -46,9 +46,9 @@ Here are a few projects that showcase my skills and interests:
 ## 📚 **Learning & Development**
 
 I’m currently focused on advancing my skills in:
-- Deep Learning with Python (NLP, CNNs, RNNs, Transformers)
-- Data Visualization with Tableau
+- Data Visualization with Tableau and PowerBI
 - Time-Series Analysis for Financial Data
+- API Development with Python (Django)
 
 
 
