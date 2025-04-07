@@ -9,19 +9,18 @@ Welcome to my GitHub profile! I'm passionate about using data to drive meaningfu
 ## 🔍 **About Me**
 
 - 🧑‍🎓 Currently pursuing a study in Software Engineering in college and Data Science online
-- 💼 Looking to transition into entry-level Data Science, Data Analyst, or Machine Learning Engineer roles
+- 💼 Looking to transition into an entry-level Data Science or Machine Learning Engineer role
 - 🛠️ Skilled in Python, Jupyter Notebook, Pandas, NumPy, Matplotlib, Seaborn, and Scikit-Learn
-- 📊 Enthusiastic about NLP, Deep Learning, and Data Visualization
-- 🌱 Currently learning Deep Learning with Python
+- 📊 Enthusiastic about Machine Learning and Data Visualization
+- 🌱 Currently learning Data Visualization with Tableau and Power BI
 
 
 
 ## 🧰 **Tech Stack**
 
 - **Programming Languages:** Python, SQL
-- **Data Science Libraries:** Pandas, NumPy, Scikit-Learn, Spacy, Seaborn, Matplotlib, Statsmodels
+- **Data Science Libraries:** Pandas, NumPy, Scikit-Learn, Seaborn, Matplotlib, Statsmodels
 - **Machine Learning:** Linear Regression, Decision Trees, Random Forests, KNN, Logistic Regression, LSTM
-- **NLP:** Sentiment Analysis, Topic Modeling, Aspect-Based Sentiment Analysis, Text Summarization
 - **Tools:** Jupyter Notebook, Visual Studio Code, Git, Tableau
 
 
@@ -48,7 +47,6 @@ Here are a few projects that showcase my skills and interests:
 I’m currently focused on advancing my skills in:
 - Data Visualization with Tableau and PowerBI
 - Time-Series Analysis for Financial Data
-- API Development with Python (Django)
 
 
 
