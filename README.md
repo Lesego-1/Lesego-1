@@ -33,6 +33,12 @@ Welcome to my GitHub profile! I’m passionate about using data to drive meaning
   <a href="https://keras.io/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" width="40"/></a>&nbsp;&nbsp;
   <!-- Scikit-Learn -->
   <a href="https://scikit-learn.org" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="40"/></a>&nbsp;&nbsp;
+  <!-- Pandas -->
+  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" width="40"/></a>&nbsp;&nbsp;
+  <!-- Seaborn -->
+  <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="40"/></a>&nbsp;&nbsp;
+  <!-- Matplotlib -->
+  <a href="https://matplotlib.org/" target="_blank"><img src="https://matplotlib.org/_static/images/logo2.svg" alt="Matplotlib" width="40"/></a>&nbsp;&nbsp;
   <!-- Tableau -->
   <a href="https://www.tableau.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" width="40"/></a>
 </p>
