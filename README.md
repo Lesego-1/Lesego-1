@@ -24,17 +24,17 @@ Welcome to my GitHub profile! I’m passionate about using data to drive meaning
 
 <p align="center">
   <!-- Python -->
-  <a href="https://www.python.org"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/python.svg" alt="Python" width="32"/></a>
+  <a href="https://www.python.org" target="_blank"><img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" width="40"/></a>&nbsp;&nbsp;
   <!-- SQL -->
-  <a href="https://www.mysql.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/mysql.svg" alt="SQL" width="32"/></a>
+  <a href="https://www.mysql.com" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" alt="MySQL" width="40"/></a>&nbsp;&nbsp;
   <!-- TensorFlow -->
-  <a href="https://www.tensorflow.org"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/tensorflow.svg" alt="TensorFlow" width="32"/></a>
+  <a href="https://www.tensorflow.org" target="_blank"><img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow" width="40"/></a>&nbsp;&nbsp;
   <!-- Keras -->
-  <a href="https://keras.io"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/keras.svg" alt="Keras" width="32"/></a>
+  <a href="https://keras.io/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" width="40"/></a>&nbsp;&nbsp;
   <!-- Scikit-Learn -->
-  <a href="https://scikit-learn.org"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/scikitlearn.svg" alt="Scikit-Learn" width="32"/></a>
+  <a href="https://scikit-learn.org" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="40"/></a>&nbsp;&nbsp;
   <!-- Tableau -->
-  <a href="https://www.tableau.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/tableau.svg" alt="Tableau" width="32"/></a>
+  <a href="https://www.tableau.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" width="40"/></a>
 </p>
 
 ---
@@ -42,19 +42,19 @@ Welcome to my GitHub profile! I’m passionate about using data to drive meaning
 ## 📈 Projects
 
 ### 1. [Customer Feedback Sentiment Analysis](https://github.com/Lesego-1/NLP-Project)  
-- **LSTM (Keras)** on 50k+ reviews; achieved 84% accuracy.
+- **LSTM (Keras)** on 50k+ reviews; achieved 84% accuracy.  
 - Cleaned text (regex, tokenization), implemented aspect-based analysis  
 
 ### 2. [Mall Customer Segmentation](https://github.com/Lesego-1/Mall-Customer-Segmentation)  
-- **K-Means** clusters (200+ customers); validated with silhouette score. 
+- **K-Means** clusters (200+ customers); validated with silhouette score.  
 - Visualized segments in Seaborn & Matplotlib  
 
 ### 3. [Term Deposit Classification](https://github.com/Lesego-1/Term-Deposit-Classification)  
-- **Random Forest** model (80% accuracy); SelectKBest feature selection.
+- **Random Forest** model (80% accuracy); SelectKBest feature selection.  
 - Interactive Tableau dashboard for stakeholder insights  
 
 ### 4. [Credit Risk Prediction](https://github.com/Lesego-1/Credit-Risk-App)  
-- **XGBoost & LightGBM** on 30k+ records; 87% accuracy using undersampling.
+- **XGBoost & LightGBM** on 30k+ records; 87% accuracy using undersampling.  
 - EDA to pinpoint default drivers  
 
 ---
@@ -69,7 +69,7 @@ I’m currently deepening my expertise in:
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="mailto:lesegojuniorrobert7@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/gmail.svg" alt="Email" width="32"/></a>   
-  <a href="https://www.linkedin.com/in/lesego-d-a5a7372a0/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/linkedin.svg" alt="LinkedIn" width="32"/></a>
-  <a href="https://lesego-1.github.io/Lesego-1-Portfolio/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/googlechrome.svg" alt="Portfolio" width="32"/></a>
-</p>  
+  <a href="mailto:lesegojuniorrobert7@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" width="40"/></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/lesego-d-a5a7372a0/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40"/></a>&nbsp;&nbsp;
+  <a href="https://lesego-1.github.io/Lesego-1-Portfolio/"><img src="https://img.icons8.com/color/48/000000/domain.png" alt="Portfolio" width="40"/></a>
+</p>
