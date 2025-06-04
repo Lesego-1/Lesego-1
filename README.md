@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I’m passionate about using data to drive meaning
 - 🧑‍🎓 Final-year IT student specializing in Software Engineering and Data Science online  
 - 💼 Aiming for entry-level Data Science or ML Engineer roles in **fintech**  
 - 🛠️ Skilled in Python, SQL, Pandas, NumPy, Matplotlib, Seaborn, and Scikit-Learn  
-- 🌱 Currently enhancing Tableau and Power BI dashboarding skills  
+- 🌱 Currently enhancing Deep Learning and Machine Learning skills  
 
 ---
 
