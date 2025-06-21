@@ -47,21 +47,28 @@ Welcome to my GitHub profile! I’m passionate about using data to drive meaning
 
 ## 📈 Projects
 
-### 1. [Customer Feedback Sentiment Analysis](https://github.com/Lesego-1/NLP-Project)  
-- **LSTM (Keras)** on 50k+ reviews; achieved 84% accuracy.  
+### 1. [Customer Dispute Classification](https://github.com/Lesego-1/Complaints-NLP)
+- **Business NLP system using Bi-LSTM + Hugging Face summarization pipeline**  
+- RESTful API built with **Django + Django REST Framework** to classify complaints & generate summaries  
+- Helps banks identify product dissatisfaction trends and prioritize serious complaints for urgent improvements  
+- Tech Stack: Python, TensorFlow, Keras, Scikit-Learn, Transformers, SpaCy, DRF
+
+### 2. [Customer Feedback Sentiment Analysis](https://github.com/Lesego-1/NLP-Project)  
+- **LSTM (Keras)** on 50k+ reviews; achieved 84% accuracy  
 - Cleaned text (regex, tokenization), implemented aspect-based analysis  
 
-### 2. [Mall Customer Segmentation](https://github.com/Lesego-1/Mall-Customer-Segmentation)  
-- **K-Means** clusters (200+ customers); validated with silhouette score.  
+### 3. [Mall Customer Segmentation](https://github.com/Lesego-1/Mall-Customer-Segmentation)  
+- **K-Means** clusters (200+ customers); validated with silhouette score  
 - Visualized segments in Seaborn & Matplotlib  
 
-### 3. [Term Deposit Classification](https://github.com/Lesego-1/Term-Deposit-Classification)  
-- **Random Forest** model (80% accuracy); SelectKBest feature selection.  
+### 4. [Term Deposit Classification](https://github.com/Lesego-1/Term-Deposit-Classification)  
+- **Random Forest** model (80% accuracy); SelectKBest feature selection  
 - Interactive Tableau dashboard for stakeholder insights  
 
-### 4. [Credit Risk Prediction](https://github.com/Lesego-1/Credit-Risk-App)  
-- **XGBoost & LightGBM** on 30k+ records; 87% accuracy using undersampling.  
+### 5. [Credit Risk Prediction](https://github.com/Lesego-1/Credit-Risk-App)  
+- **XGBoost & LightGBM** on 30k+ records; 87% accuracy using undersampling  
 - EDA to pinpoint default drivers  
+ 
 
 ---
 
