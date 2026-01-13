@@ -1,88 +1,141 @@
 <!-- Title Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=36&duration=3000&pause=1000&color=2E86AB&background=FFFFFF00&width=600&lines=Hi+there!+👋+I'm+Lesego+Dhlamini" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=34&duration=3000&pause=1000&color=2E86AB&background=FFFFFF00&width=700&lines=Hi+there!+I'm+Lesego+Dhlamini;Junior+Backend+Software+Engineer;Python+%7C+Django+%7C+Data-Driven+Systems" alt="Typing SVG"/>
 </p>
 
 <p align="center">
-  🎓 **Data Scientist** | 📊 **Machine Learning Enthusiast** | 💻 **Python Developer**
-</p>
-
-Welcome to my GitHub profile! I’m passionate about using data to drive meaningful insights and solutions. With a strong foundation in statistics, machine learning, and data visualization, I build end-to-end pipelines and interactive dashboards in **fintech** contexts.
-
----
-
-## 🔍 About Me
-
-- 🧑‍🎓 Final-year IT student specializing in Software Engineering and Data Science online  
-- 💼 Aiming for entry-level Data Science or ML Engineer roles in **fintech**  
-- 🛠️ Skilled in Python, SQL, Pandas, NumPy, Matplotlib, Seaborn, and Scikit-Learn  
-- 🌱 Currently enhancing Deep Learning and Machine Learning skills  
-
----
-
-## 🧰 Tech Stack
-
-<p align="center">
-  <!-- Python -->
-  <a href="https://www.python.org" target="_blank"><img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" width="40"/></a>&nbsp;&nbsp;
-  <!-- SQL -->
-  <a href="https://www.mysql.com" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" alt="MySQL" width="40"/></a>&nbsp;&nbsp;
-  <!-- TensorFlow -->
-  <a href="https://www.tensorflow.org" target="_blank"><img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow" width="40"/></a>&nbsp;&nbsp;
-  <!-- Keras -->
-  <a href="https://keras.io/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" width="40"/></a>&nbsp;&nbsp;
-  <!-- Scikit-Learn -->
-  <a href="https://scikit-learn.org" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="40"/></a>&nbsp;&nbsp;
-  <!-- Pandas -->
-  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" width="40"/></a>&nbsp;&nbsp;
-  <!-- Seaborn -->
-  <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="40"/></a>&nbsp;&nbsp;
-  <!-- Matplotlib -->
-  <a href="https://matplotlib.org/" target="_blank"><img src="https://matplotlib.org/_static/images/logo2.svg" alt="Matplotlib" width="40"/></a>&nbsp;&nbsp;
-  <!-- Tableau -->
-  <a href="https://www.tableau.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" width="40"/></a>
+  <strong>Junior Backend Software Engineer</strong> • Python • Django • REST APIs • Data-Driven Systems
 </p>
 
 ---
 
-## 📈 Projects
+## 👋 Overview
 
-### 1. [Customer Dispute Classification](https://github.com/Lesego-1/Complaints-NLP)
-- **Business NLP system using Bi-LSTM + Hugging Face summarization pipeline**  
-- RESTful API built with **Django + Django REST Framework** to classify complaints & generate summaries  
-- Helps banks identify product dissatisfaction trends and prioritize serious complaints for urgent improvements  
-- Tech Stack: Python, TensorFlow, Keras, Scikit-Learn, Transformers, SpaCy, DRF
+I’m a **Junior Backend Software Engineer** with strong experience building **production-ready REST APIs**, data-driven backend systems, and NLP-powered services.  
+My background combines **software engineering fundamentals** with **applied data science**, particularly in **fintech and customer analytics** use cases.
 
-### 2. [Customer Feedback Sentiment Analysis](https://github.com/Lesego-1/NLP-Project)  
-- **LSTM (Keras)** on 50k+ reviews; achieved 84% accuracy  
-- Cleaned text (regex, tokenization), implemented aspect-based analysis  
-
-### 3. [Mall Customer Segmentation](https://github.com/Lesego-1/Mall-Customer-Segmentation)  
-- **K-Means** clusters (200+ customers); validated with silhouette score  
-- Visualized segments in Seaborn & Matplotlib  
-
-### 4. [Term Deposit Classification](https://github.com/Lesego-1/Term-Deposit-Classification)  
-- **Random Forest** model (80% accuracy); SelectKBest feature selection  
-- Interactive Tableau dashboard for stakeholder insights  
-
-### 5. [Credit Risk Prediction](https://github.com/Lesego-1/Credit-Risk-App)  
-- **XGBoost & LightGBM** on 30k+ records; 87% accuracy using undersampling  
-- EDA to pinpoint default drivers  
- 
+I focus on:
+- Clean API design
+- Scalable backend architecture
+- Data-informed decision systems
+- Reliability, testing, and performance
 
 ---
 
-## 📚 Learning & Development
+## 🎓 Education
 
-I’m currently deepening my expertise in:  
-- **Deep Learning (Tensorflow/Keras)** for creating and optimizing deep learning models. 
+**Diploma in Information Technology**  
+*Richfield Graduate Institute of Technology — 2025*  
+
+- Distinctions: Internet Programming, Information Systems, Business Communication  
+- Relevant Coursework: Data Structures & Algorithms, Databases, Operating Systems, Software Engineering, Networking  
 
 ---
 
-## 🌐 Connect with Me
+## 🧠 Core Skills
+
+### Languages
+- **Python** (primary)
+- SQL
+- C#, Java
+
+### Backend & APIs
+- **Django**
+- **Django REST Framework**
+- RESTful API design
+- Authentication & Authorization (JWT, RBAC)
+- PyTest (unit & integration testing)
+
+### Databases
+- MySQL
+- SQLite
+- SQL Server
+
+### DevOps & Tooling
+- Docker
+- Git & GitHub
+- GitHub Actions (CI/CD)
+- AWS (EC2, S3, RDS, ECS)
+- Postman
+
+### Data & ML (Applied)
+- Pandas, NumPy
+- Scikit-Learn
+- TensorFlow / Keras
+- NLP (SpaCy, Transformers)
+
+---
+
+## 🛠️ Tech Stack
 
 <p align="center">
-  <a href="mailto:lesegojuniorrobert7@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" width="40"/></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/lesego-d-a5a7372a0/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40"/></a>&nbsp;&nbsp;
-  <a href="https://lesego-1.github.io/Lesego-1-Portfolio/"><img src="https://img.icons8.com/color/48/000000/domain.png" alt="Portfolio" width="40"/></a>
+  <a href="https://www.python.org"><img src="https://img.icons8.com/color/48/python--v1.png" width="40"/></a>
+  <a href="https://www.djangoproject.com/"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/django.png" width="40"/></a>
+  <a href="https://www.docker.com/"><img src="https://img.icons8.com/color/48/docker.png" width="40"/></a>
+  <a href="https://www.mysql.com/"><img src="https://img.icons8.com/fluency/48/mysql-logo.png" width="40"/></a>
+  <a href="https://aws.amazon.com/"><img src="https://img.icons8.com/color/48/amazon-web-services.png" width="40"/></a>
+  <a href="https://scikit-learn.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/></a>
+</p>
+
+---
+
+## 💼 Experience
+
+### Software Engineering Trainee — **Perpex**
+*July 2025 – October 2025*
+
+- Designed **5+ relational Django models**, reducing redundancy and improving data integrity  
+- Built **8+ RESTful APIs** following real-world backend integration patterns  
+- Implemented **role-based access control (RBAC)** for secure authentication flows  
+- Participated in **10+ code reviews**, improving maintainability and documentation quality  
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 Customer Dispute Classification System
+**Django • NLP • Docker**  
+🔗 https://github.com/Lesego-1/Customer-Dispute-Classification
+
+- Built an **NLP-powered backend service** processing **200K+ customer complaints**
+- Improved dispute risk-scoring accuracy by **30%**
+- Designed optimized REST endpoints, reducing response time by **40%**
+- Containerized the system with **Docker** for reproducible deployment
+
+---
+
+### 🔹 Community Marketplace Platform (Team Lead)
+**Django • REST API • Backend Architecture**
+
+- Led a **5-member team** building a full-stack marketplace
+- Designed backend modules: authentication, listings, messaging, ratings, moderation
+- Implemented search & filtering logic, improving listing discovery by **~50%**
+- Achieved **80% test coverage** using PyTest across critical user flows
+
+---
+
+### 🔹 Credit Risk Prediction
+**XGBoost • LightGBM • Data Analysis**
+
+- Trained models on **30K+ records**, achieving **87% accuracy**
+- Performed EDA to identify key default drivers
+- Addressed class imbalance using undersampling techniques
+
+---
+
+## 📚 Current Focus
+
+- Advanced Django backend patterns
+- API performance optimization
+- Scalable system design
+- Deep Learning (TensorFlow / Keras) for production use
+
+---
+
+## 🌐 Connect
+
+<p align="center">
+  <a href="mailto:lesegonina64@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" width="40"/></a>
+  <a href="https://www.linkedin.com/in/lesego-d-a5a7372a0/"><img src="https://img.icons8.com/color/48/linkedin.png" width="40"/></a>
+  <a href="https://github.com/Lesego-1"><img src="https://img.icons8.com/material-outlined/48/github.png" width="40"/></a>
 </p>
