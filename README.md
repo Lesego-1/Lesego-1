@@ -1,31 +1,33 @@
 <!-- Title Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=34&duration=3000&pause=1000&color=2E86AB&background=FFFFFF00&width=700&lines=Hi+there!+I'm+Lesego+Dhlamini;Junior+Backend+Software+Engineer;Python+%7C+Django+%7C+Data-Driven+Systems" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=34&duration=3000&pause=1000&color=2E86AB&background=FFFFFF00&width=800&lines=Hi+there!+I'm+Lesego+Dhlamini;Junior+Backend+Software+Engineer;Python+%7C+C%23+%7C+.NET+%7C+Django+%7C+REST+APIs" alt="Typing SVG"/>
 </p>
 
 <p align="center">
-  <strong>Junior Backend Software Engineer</strong> • Python • Django • REST APIs • Data-Driven Systems
+  <strong>Junior Backend Software Engineer</strong><br/>
+  Python • Django • C# • ASP.NET Core • REST APIs • Secure Systems
 </p>
 
 ---
 
 ## 👋 Overview
 
-I’m a **Junior Backend Software Engineer** with strong experience building **production-ready REST APIs**, data-driven backend systems, and NLP-powered services.  
-My background combines **software engineering fundamentals** with **applied data science**, particularly in **fintech and customer analytics** use cases.
+I’m a **Junior Backend Software Engineer** with hands-on experience building **secure, production-ready backend systems** using **Python/Django** and **C#/.NET**.
 
-I focus on:
-- Clean API design
-- Scalable backend architecture
-- Data-informed decision systems
-- Reliability, testing, and performance
+My work focuses on:
+- Designing clean, scalable **RESTful APIs**
+- Implementing **authentication & authorization** (JWT, Refresh Tokens, RBAC)
+- Building **data-driven and NLP-powered backend services**
+- Working with **relational databases** and backend architecture best practices
+
+I’ve built real-world backend systems across **fintech, authentication, analytics, and marketplace platforms**, with a strong emphasis on **security, reliability, and maintainability**.
 
 ---
 
 ## 🎓 Education
 
 **Diploma in Information Technology**  
-*Richfield Graduate Institute of Technology — 2025*  
+*Richfield Graduate Institute of Technology — 2025*
 
 - Distinctions: Internet Programming, Information Systems, Business Communication  
 - Relevant Coursework: Data Structures & Algorithms, Databases, Operating Systems, Software Engineering, Networking  
@@ -35,46 +37,55 @@ I focus on:
 ## 🧠 Core Skills
 
 ### Languages
-- **Python** (primary)
+- **Python**
+- **C#**
 - SQL
-- C#, Java
+- Java
 
 ### Backend & APIs
 - **Django**
 - **Django REST Framework**
+- **ASP.NET Core (.NET 9)**
 - RESTful API design
-- Authentication & Authorization (JWT, RBAC)
+- Authentication & Authorization (**JWT, Refresh Tokens, RBAC**)
+- Swagger / OpenAPI
 - PyTest (unit & integration testing)
 
 ### Databases
+- **SQL Server**
+- PostgreSQL
 - MySQL
 - SQLite
-- SQL Server
+- Entity Framework Core (EF Core)
 
 ### DevOps & Tooling
 - Docker
 - Git & GitHub
 - GitHub Actions (CI/CD)
 - AWS (EC2, S3, RDS, ECS)
+- Gunicorn
 - Postman
 
-### Data & ML (Applied)
+### Data & NLP (Applied)
 - Pandas, NumPy
 - Scikit-Learn
 - TensorFlow / Keras
-- NLP (SpaCy, Transformers)
+- spaCy
+- Hugging Face Transformers
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <a href="https://www.python.org"><img src="https://img.icons8.com/color/48/python--v1.png" width="40"/></a>
-  <a href="https://www.djangoproject.com/"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/django.png" width="40"/></a>
-  <a href="https://www.docker.com/"><img src="https://img.icons8.com/color/48/docker.png" width="40"/></a>
-  <a href="https://www.mysql.com/"><img src="https://img.icons8.com/fluency/48/mysql-logo.png" width="40"/></a>
-  <a href="https://aws.amazon.com/"><img src="https://img.icons8.com/color/48/amazon-web-services.png" width="40"/></a>
-  <a href="https://scikit-learn.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/></a>
+  <img src="https://img.icons8.com/color/48/python--v1.png" width="40"/>
+  <img src="https://img.icons8.com/color/48/c-sharp-logo.png" width="40"/>
+  <img src="https://img.icons8.com/color/48/net-framework.png" width="40"/>
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/django.png" width="40"/>
+  <img src="https://img.icons8.com/fluency/48/mysql-logo.png" width="40"/>
+  <img src="https://img.icons8.com/color/48/microsoft-sql-server.png" width="40"/>
+  <img src="https://img.icons8.com/color/48/docker.png" width="40"/>
+  <img src="https://img.icons8.com/color/48/amazon-web-services.png" width="40"/>
 </p>
 
 ---
@@ -84,58 +95,105 @@ I focus on:
 ### Software Engineering Trainee — **Perpex**
 *July 2025 – October 2025*
 
-- Designed **5+ relational Django models**, reducing redundancy and improving data integrity  
-- Built **8+ RESTful APIs** following real-world backend integration patterns  
+- Designed **5+ relational backend models**, improving data integrity and normalization  
+- Built **8+ RESTful APIs** following real-world integration patterns  
 - Implemented **role-based access control (RBAC)** for secure authentication flows  
-- Participated in **10+ code reviews**, improving maintainability and documentation quality  
+- Participated in **10+ code reviews**, improving maintainability and documentation  
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🔹 Customer Dispute Classification System
-**Django • NLP • Docker**  
+**Django • Django REST Framework • NLP • Docker**  
 🔗 https://github.com/Lesego-1/Customer-Dispute-Classification
 
-- Built an **NLP-powered backend service** processing **200K+ customer complaints**
-- Improved dispute risk-scoring accuracy by **30%**
-- Designed optimized REST endpoints, reducing response time by **40%**
-- Containerized the system with **Docker** for reproducible deployment
+- Built an **NLP-powered backend service** for classifying and summarizing bank customer complaints
+- Predicts dispute escalation risk and generates automated summaries
+- Designed REST APIs handling **model inference, scoring, and response formatting**
+- Enabled data-driven prioritization of high-risk complaints
+- Containerized for reproducible deployment
+
+---
+
+### 🔹 Authentication & Authorization API
+**C# • ASP.NET Core (.NET 9) • SQL Server • JWT**  
+🔗 https://github.com/Lesego-1/User-Authentication-API
+
+- Developed a **secure authentication API** using ASP.NET Core
+- Implemented:
+  - JWT authentication
+  - Refresh token rotation
+  - Role-based authorization (Admin/User)
+- Used **Entity Framework Core** with SQL Server
+- Documented and tested endpoints using **Swagger UI**
+- Applied industry-standard security practices
 
 ---
 
 ### 🔹 Community Marketplace Platform (Team Lead)
-**Django • REST API • Backend Architecture**
+**Django • REST APIs • Backend Architecture**
 
-- Led a **5-member team** building a full-stack marketplace
-- Designed backend modules: authentication, listings, messaging, ratings, moderation
-- Implemented search & filtering logic, improving listing discovery by **~50%**
-- Achieved **80% test coverage** using PyTest across critical user flows
+- Led a **5-member team** building a full-featured marketplace platform
+- Designed backend systems for:
+  - User authentication and RBAC
+  - Listings, messaging, moderation, and admin tools
+- Implemented search and filtering logic for improved discovery
+- Achieved **~80% backend test coverage** on critical functionality
 
 ---
 
-### 🔹 Credit Risk Prediction
-**XGBoost • LightGBM • Data Analysis**
+### 🔹 Resume Match Analyzer (ATS-Style System)
+**Django • NLP • Backend Processing**
 
-- Trained models on **30K+ records**, achieving **87% accuracy**
-- Performed EDA to identify key default drivers
-- Addressed class imbalance using undersampling techniques
+- Built an **ATS-style resume matching system** using NLP
+- Extracted and compared keywords between resumes and job descriptions
+- Generated match scores and actionable feedback
+- Designed secure server-side processing with no data persistence
+- Fully deployable using **Gunicorn**
+
+---
+
+### 🔹 Customer Feedback Sentiment & Aspect Analysis
+**Python • NLP • Deep Learning**
+
+- Built an **LSTM-based sentiment analysis system** achieving **84% accuracy**
+- Implemented **Aspect-Based Sentiment Analysis (ABSA)** for fine-grained insights
+- Automated extraction of product/service aspects and sentiment polarity
+- Designed preprocessing pipelines for unstructured text data
+
+---
+
+### 🔹 Bank Customer Subscription Prediction
+**Django • Machine Learning • Data Analysis**
+
+- Built an end-to-end backend system predicting term deposit subscriptions
+- Trained Random Forest models achieving **~80% accuracy**
+- Implemented real-time prediction logic for user input
+- Prepared data for analytical dashboards and reporting
 
 ---
 
 ## 📚 Current Focus
 
-- Advanced Django backend patterns
+- Advanced **ASP.NET Core** backend patterns
+- Secure authentication & authorization systems
+- Backend system design and scalability
 - API performance optimization
-- Scalable system design
-- Deep Learning (TensorFlow / Keras) for production use
+- Production-ready NLP-backed services
 
 ---
 
 ## 🌐 Connect
 
 <p align="center">
-  <a href="mailto:lesegonina64@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" width="40"/></a>
-  <a href="https://www.linkedin.com/in/lesego-d-a5a7372a0/"><img src="https://img.icons8.com/color/48/linkedin.png" width="40"/></a>
-  <a href="https://github.com/Lesego-1"><img src="https://img.icons8.com/material-outlined/48/github.png" width="40"/></a>
+  <a href="mailto:lesegonina64@gmail.com">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" width="40"/>
+  </a>
+  <a href="https://www.linkedin.com/in/lesego-d-a5a7372a0/">
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="40"/>
+  </a>
+  <a href="https://github.com/Lesego-1">
+    <img src="https://img.icons8.com/material-outlined/48/github.png" width="40"/>
+  </a>
 </p>
